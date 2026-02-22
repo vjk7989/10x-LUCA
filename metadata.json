@@ -1,0 +1,7 @@
+{
+  "name": "LUCA Voice Assistant",
+  "description": "A highly expressive voice assistant named LUCA, created by 10x Technologies, featuring real-time audio interaction, emotional animations, and visual voice bars.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
